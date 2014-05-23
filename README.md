@@ -10,4 +10,6 @@
 
 * [The Little Manual of API Design](papers/The Little Manual of API Design.pdf)
 
-* [Programming Languages and Lambda Calculi](/papers/Programming Languages and Lambda Calculi.pdf) \([source](http://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf)\)
+* [Programming Languages and Lambda Calculi](papers/Programming Languages and Lambda Calculi.pdf) \([source](http://www.cs.utah.edu/~mflatt/past-courses/cs7520/public_html/s06/notes.pdf)\)
+
+* [Making reliable distributed systems in the presence of software errors](papers/Making reliable distributed systems in the presence of software errors.pdf) \([source](http://www.erlang.org/download/armstrong_thesis_2003.pdf)\)
